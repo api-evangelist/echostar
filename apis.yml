@@ -1,7 +1,11 @@
 aid: echostar
-url: https://raw.githubusercontent.com/api-evangelist/echostar/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/echostar/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.echostar.com
+description: >-
+  Echostar Corporation (Nasdaq: SATS) is a global fully integrated communications
+  and content delivery leader and provider of technology, spectrum, and connectivity.
