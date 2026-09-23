@@ -1,7 +1,9 @@
 ---
 title: EchoStar Announces Spectrum Sale and Hybrid Mobile ...
 url: https://www.prnewswire.com/news-releases/echostar-announces-spectrum-sale-and-hybrid-mobile-network-operator-mno-agreement-steps-toward-resolving-federal-communications-commissions-fcc-inquiries-302538317.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"EchoStar" press release artificial intelligence'
 position: 2
 source: serpapi-google

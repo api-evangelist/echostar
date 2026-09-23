@@ -1,7 +1,9 @@
 ---
 title: EchoStar Case Study
 url: https://cloud.google.com/customers/echostar
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"EchoStar" press release artificial intelligence'
 position: 3
 source: serpapi-google

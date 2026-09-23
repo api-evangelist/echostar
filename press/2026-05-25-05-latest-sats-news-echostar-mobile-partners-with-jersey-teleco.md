@@ -1,7 +1,9 @@
 ---
 title: Latest SATS News - EchoStar Mobile Partners with Jersey Teleco...
 url: https://www.stocktitan.net/news/SATS/page-27.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"EchoStar" press release artificial intelligence'
 position: 5
 source: serpapi-google
